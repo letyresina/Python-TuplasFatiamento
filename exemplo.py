@@ -59,3 +59,6 @@ lista1 = [1,2,3,4,5]
 tupla1 = tuple(lista1)
 print(tupla1)
 
+lista = [2,3,4,5,6]
+lista2 = lista[:2]
+print(lista2)
