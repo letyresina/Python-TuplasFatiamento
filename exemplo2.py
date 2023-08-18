@@ -19,3 +19,6 @@ print(exemplo)
 
 exemplo2 = nome[2:] # vai pegar do indice 2 ate o final
 print(exemplo2)
+
+exemplo3 = nome[::-1] # de tras pra frente
+print(exemplo3)
